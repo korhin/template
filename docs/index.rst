@@ -36,16 +36,9 @@ Developer Documentation
 =======================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :glob:
    
-   getting-started
-   api
-   api-advanced
-   cookbook
-   migration
-   notes
-   testing
 *
 ----
 
