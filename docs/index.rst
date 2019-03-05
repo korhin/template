@@ -39,7 +39,9 @@ Developer Documentation
    :maxdepth: 5
    :glob:
    
+   started.rst
 *
+
 ----
 
 Legacy Documentation
