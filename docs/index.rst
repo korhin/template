@@ -39,7 +39,7 @@ Developer Documentation
    :maxdepth: 5
    :glob:
    
-   started.rst
+   -  `started`_
 *
 
 ----
