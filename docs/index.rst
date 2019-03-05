@@ -41,6 +41,9 @@ Developer Documentation
    
    started
    cookbook
+   api
+   api-advanced
+   testing
    
 *
 
