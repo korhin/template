@@ -32,10 +32,10 @@ Features
 
 ----
 
-.. toctree::
-    :maxdepth: 3
-   :caption: Developer Documentation
+Developer Documentation
+=======================
 
+.. toctree::
    getting-started
    api
    api-advanced
