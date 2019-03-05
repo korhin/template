@@ -40,6 +40,8 @@ Developer Documentation
    :glob:
    
    started
+   cookbook
+   
 *
 
 ----
