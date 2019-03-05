@@ -36,8 +36,9 @@ Developer Documentation
 =======================
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Developer Documentation
+   :maxdepth: 2
+   :glob:
+   
    getting-started
    api
    api-advanced
@@ -45,7 +46,7 @@ Developer Documentation
    migration
    notes
    testing
-
+*
 ----
 
 Legacy Documentation
